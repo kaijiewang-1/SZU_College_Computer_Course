@@ -1,0 +1,50 @@
+# 遥感/图像数据
+*.tif
+*.tiff
+*.img
+*.dat
+*.hdr
+*.nc
+*.hdf
+*.h5
+
+# 编译产物
+*.exe
+*.dll
+*.so
+*.o
+*.obj
+*.class
+*.jar
+*.out
+*.a
+*.lib
+*.pyc
+*.pyo
+__pycache__/
+
+# 视频和音频
+*.mp4
+*.avi
+*.mkv
+*.mov
+*.wmv
+*.flv
+*.mp3
+*.wav
+
+# IDE 和编辑器配置
+.idea/
+.vscode/
+*.iml
+
+# 日志和临时文件
+*.log
+*.tmp
+*.temp
+*.swp
+*~
+
+# 依赖目录（如果有）
+node_modules/
+vendor/
